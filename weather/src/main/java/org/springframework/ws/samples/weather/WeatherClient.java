@@ -81,5 +81,8 @@ public class WeatherClient extends WebServiceGatewaySupport {
 		client.printResponse(response);
 
 	}
+	
+	public void printMessage(){
+	}
 
 }
