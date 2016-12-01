@@ -39,5 +39,7 @@ public class WeatherConfiguration {
 		client.setUnmarshaller(marshaller);
 		return client;
 	}
-
+        
+	public void initData(){
+	}
 }
